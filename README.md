@@ -2,7 +2,7 @@
 
 ## Screenshot
 
-![Screenshot](images/jfc.png)
+![Screenshot](jfc.png)
 
 This is a professional website for the JFC legal and consultancy services. The site features key sections like home, business, about, and contact, providing a sleek and responsive layout for users.
 
